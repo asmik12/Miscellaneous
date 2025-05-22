@@ -1,0 +1,16 @@
+FSLOG 2025/05/21 21:13:00 Watching folder: /Users/asmikawatkar/Desktop/TestWatcj
+FSLOG 2025/05/21 21:13:32 EVENT: CREATE /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:32 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:32 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:36 EVENT: CREATE /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers.sb-3e701727-acLzmu
+FSLOG 2025/05/21 21:13:36 EVENT: REMOVE /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:36 EVENT: CREATE /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:36 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:13:36 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers.sb-3e701727-acLzmu
+FSLOG 2025/05/21 21:13:36 EVENT: REMOVE /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers.sb-3e701727-acLzmu
+FSLOG 2025/05/21 21:14:16 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:14:16 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/Untitled.numbers
+FSLOG 2025/05/21 21:16:33 EVENT: CREATE /Users/asmikawatkar/Desktop/TestWatcj/bigram_losses_new.csv
+FSLOG 2025/05/21 21:16:33 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/bigram_losses_new.csv
+FSLOG 2025/05/21 21:16:33 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/bigram_losses_new.csv
+FSLOG 2025/05/21 21:16:36 EVENT: CHMOD /Users/asmikawatkar/Desktop/TestWatcj/bigram_losses_new.csv
